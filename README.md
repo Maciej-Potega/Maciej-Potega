@@ -1,6 +1,6 @@
 <!Introduction Message->
 <h1 align="center">Hi, I'm Maciej👋</h1>
-<h3 align="center">A young programmer mainly passionate about programming 3D games!</h3>
+<h3 align="center">A young programmer mainly passionate about creating 3D games!</h3>
 
 <!Languages and Tools->
 <h3 align="left">Languages and Tools:</h3>
